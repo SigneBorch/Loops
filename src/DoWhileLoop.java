@@ -6,7 +6,7 @@
  Prøv så at køre programmet med både rigtigt og forkert input (skriv fx hej i stedet for et tal). */
 
 import java.util.Scanner;
-
+//Opgave med do-while loop
 public class DoWhileLoop {
 
     public static void main(String[] args) {
